@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Algo/Listes.md",
+                "file": "Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Algo/Listes.md",
+                "file": "Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Algo/Listes.md",
+                "file": "Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Algo/Listes.md"
+                "file": "Functions.md"
               }
             }
           }
@@ -146,17 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c948228a6c79cce",
+  "active": "c373b9d5d8d9f061",
   "lastOpenFiles": [
     "Cours/Algo/BOUCLES.md",
+    "Functions.md",
     "Cours/Algo/Listes.md",
-    "Cours/Algo/Opérateurs de comparaison.md",
-    "Cours/Module A/Séance 1.md",
-    "Cours/Module A/Séance 2.md",
     "Cours/Algo/LES VARIABLES.md",
-    "Cours/Algo/Algo 10-09-2024.md",
+    "Cours/Algo/Opérateurs de comparaison.md",
     "Cours/Algo/Exemples de scripts.md",
     "Cours/Algo/Commandes Git - 2024-09-23.md",
+    "Cours/Module A/Séance 1.md",
+    "Cours/Module A/Séance 2.md",
+    "Cours/Algo/Algo 10-09-2024.md",
     "README.md",
     "Veille/Ressources web.md",
     "fonction.md",
