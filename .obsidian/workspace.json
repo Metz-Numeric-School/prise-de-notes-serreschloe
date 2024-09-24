@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Module A/Séance 1.md",
+                "file": "Cours/Algo/Listes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Module A/Séance 1.md",
+                "file": "Cours/Algo/Listes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Module A/Séance 1.md",
+                "file": "Cours/Algo/Listes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Module A/Séance 1.md"
+                "file": "Cours/Algo/Listes.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c373b9d5d8d9f061",
+  "active": "6c948228a6c79cce",
   "lastOpenFiles": [
-    "Cours/Module A/Séance 2.md",
+    "Cours/Algo/BOUCLES.md",
+    "Cours/Algo/Listes.md",
+    "Cours/Algo/Opérateurs de comparaison.md",
     "Cours/Module A/Séance 1.md",
+    "Cours/Module A/Séance 2.md",
     "Cours/Algo/LES VARIABLES.md",
     "Cours/Algo/Algo 10-09-2024.md",
     "Cours/Algo/Exemples de scripts.md",
