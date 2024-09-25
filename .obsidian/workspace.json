@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions.md",
+                "file": "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions.md",
+                "file": "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions.md",
+                "file": "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions.md"
+                "file": "Cours/Gestion parc informatique/Cours 1  25-09-2024.md"
               }
             }
           }
@@ -148,15 +148,18 @@
   },
   "active": "c373b9d5d8d9f061",
   "lastOpenFiles": [
+    "Pasted image 20240925115015.png",
+    "Cours/Algo/Séance 2.md",
+    "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
+    "Cours/Gestion parc informatique",
+    "Cours/Algo/Séance 1.md",
+    "Cours/Algo/Functions.md",
     "Cours/Algo/BOUCLES.md",
-    "Functions.md",
     "Cours/Algo/Listes.md",
     "Cours/Algo/LES VARIABLES.md",
     "Cours/Algo/Opérateurs de comparaison.md",
     "Cours/Algo/Exemples de scripts.md",
     "Cours/Algo/Commandes Git - 2024-09-23.md",
-    "Cours/Module A/Séance 1.md",
-    "Cours/Module A/Séance 2.md",
     "Cours/Algo/Algo 10-09-2024.md",
     "README.md",
     "Veille/Ressources web.md",
