@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
+                "file": "Cours/Algo/Commandes Git - 2024-09-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
+                "file": "Cours/Algo/Commandes Git - 2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
+                "file": "Cours/Algo/Commandes Git - 2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Gestion parc informatique/Cours 1  25-09-2024.md"
+                "file": "Cours/Algo/Commandes Git - 2024-09-23.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "c373b9d5d8d9f061",
   "lastOpenFiles": [
+    "Cours Mr. QUIRIN.md",
+    "README.md",
+    "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
+    "Cours/Anglais",
     "Pasted image 20240925134354.png",
     "Pasted image 20240925115015.png",
-    "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
     "Cours/Algo/Séance 2.md",
     "Cours/Gestion parc informatique",
     "Cours/Algo/Séance 1.md",
@@ -162,7 +165,6 @@
     "Cours/Algo/Exemples de scripts.md",
     "Cours/Algo/Commandes Git - 2024-09-23.md",
     "Cours/Algo/Algo 10-09-2024.md",
-    "README.md",
     "Veille/Ressources web.md",
     "fonction.md",
     "Cours/Algo",
