@@ -44,13 +44,13 @@ La calculatrice de prix AWS permet d'effectuer les opérations suivantes
 
 ## Autres consideration sur les avantages
 
-**Avantages tangibles** :
+##### **Avantages tangibles** :
 - Réduction des dépenses sur le calcul, le stockage, le réseau et la sécurité  
 - Réduction des achats matériels et logiciels (CAPEX)  
 - Réduction des coûts d'exploitation, de sauvegarde et de récupération  
 - Réduction du personnel d'opération
 
-**Avantages intangibles :**
+##### **Avantages intangibles :**
 - Réutilisation des services et applications permettant de (re)définir vos solutions avec un même service cloud  
 - Amélioration de la productivité des développeurs  
 - Augmentation de la satisfaction des clients  

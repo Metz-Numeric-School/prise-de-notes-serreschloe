@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Cloud Computing/Cloud Computing Module 2.md",
+                "file": "Cours/Cloud Computing/Cloud Computing Module 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Cloud Computing/Cloud Computing Module 2.md",
+                "file": "Cours/Cloud Computing/Cloud Computing Module 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Cloud Computing/Cloud Computing Module 2.md",
+                "file": "Cours/Cloud Computing/Cloud Computing Module 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Cloud Computing/Cloud Computing Module 2.md"
+                "file": "Cours/Cloud Computing/Cloud Computing Module 4.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "c373b9d5d8d9f061",
   "lastOpenFiles": [
+    "Cours/Cloud Computing/Cloud Computing Module 3.md",
+    "Cours/Cloud Computing/Cloud Computing Module 4.md",
+    "Pasted image 20241007153408.png",
+    "Cours/Cloud Computing/Cloud Computing Module 2.md",
     "Pasted image 20241007135129.png",
     "Cours/Cloud Computing/Cloud Computing Module 1.md",
-    "Cours/Cloud Computing/Cloud Computing Module 2.md",
     "Pasted image 20241007105115.png",
     "Pasted image 20241007105035.png",
     "Cours/Cloud Computing",
