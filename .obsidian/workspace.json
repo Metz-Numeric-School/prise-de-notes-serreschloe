@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Cloud Computing/Cloud Computing Module 4.md",
+                "file": "Cours/Cloud Computing/Cloud Computing Module 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Cloud Computing/Cloud Computing Module 4.md",
+                "file": "Cours/Cloud Computing/Cloud Computing Module 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Cloud Computing/Cloud Computing Module 4.md",
+                "file": "Cours/Cloud Computing/Cloud Computing Module 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Cloud Computing/Cloud Computing Module 4.md"
+                "file": "Cours/Cloud Computing/Cloud Computing Module 5.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "c373b9d5d8d9f061",
   "lastOpenFiles": [
-    "Cours/Cloud Computing/Cloud Computing Module 3.md",
+    "Pasted image 20241008094238.png",
+    "Pasted image 20241008094143.png",
+    "Cours/Conception de projets informatique",
     "Cours/Cloud Computing/Cloud Computing Module 4.md",
+    "Cours/Cloud Computing/Cloud Computing Module 5.md",
+    "Cours/Cloud Computing/Cloud Computing Module 3.md",
     "Pasted image 20241007153408.png",
     "Cours/Cloud Computing/Cloud Computing Module 2.md",
     "Pasted image 20241007135129.png",
@@ -160,7 +164,7 @@
     "Cours/Gestion parc informatique/Cours 2 - 02-10-2024.md",
     "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
     "Cours/Algo/Commandes Git - 2024-09-23.md",
-    "Cours/Cours Mr. QUIRIN.md",
+    "Cours/Conception de projets informatique/Cours Mr. QUIRIN.md",
     "README.md",
     "Cours/Anglais",
     "Pasted image 20240925134354.png",
@@ -184,7 +188,6 @@
     "Cours",
     "ALGO/Sommaire.md",
     "Welcome.md",
-    "ALGO",
-    "CSS"
+    "ALGO"
   ]
 }
