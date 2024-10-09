@@ -20,12 +20,12 @@
 ## Présentation d'Amazon EC2
 
 #### Amazon Elastic Compute Cloud (Amazon EC2)  
-• Fournit des machines virtuelles (appelées instances EC2) dans le cloud.  
-• Permet un contrôle total du système d'exploitation invité (Windows ou Linux) sur chaque instance.  
-• Vous pouvez lancer des instances, quelle que soit leur taille, dans une zone de disponibilité n'importe où dans le monde.  
-• Lancez des instances à partir d'Amazon Machine Images (AMI).  
-• Lancez en quelques clics ou à partir d'une ligne de code des instances qui seront prêtes en quelques minutes.  
-• Vous pouvez contrôler le trafic entrant et sortant des instances.
+- Fournit des machines virtuelles (appelées instances EC2) dans le cloud.  
+- Permet un contrôle total du système d'exploitation invité (Windows ou Linux) sur chaque instance.  
+- Vous pouvez lancer des instances, quelle que soit leur taille, dans une zone de disponibilité n'importe où dans le monde.  
+- Lancez des instances à partir d'Amazon Machine Images (AMI).  
+- Lancez en quelques clics ou à partir d'une ligne de code des instances qui seront prêtes en quelques minutes.  
+- Vous pouvez contrôler le trafic entrant et sortant des instances.
 
 ## Types d'instances : fonctions de mise en réseau 
 
@@ -91,16 +91,15 @@
 ## Amazon CloudWatch pour la surveillance
 
 #### Utilisez Amazon CloudWatch pour surveiller les instances EC2:  
-• Fournit des métriques en temps quasi réel.  
-• Vous donne acces à des graphiques dans l'onglet  
-Monitoring (Surveillance) de la console Amazon EC2  
-• Conserve 15 mois de données historiques  
+- Fournit des métriques en temps quasi réel.  
+- Vous donne acces à des graphiques dans l'onglet Monitoring (Surveillance) de la console Amazon EC2  
+- Conserve 15 mois de données historiques  
 #### Surveillance basique  
-• Activée par défaut, n'entraine aucun coût supplémentaire  
-• Données de métriques envoyées à CloudWatch toutes les 5 minutes  
+- Activée par défaut, n'entraine aucun coût supplémentaire  
+- Données de métriques envoyées à CloudWatch toutes les 5 minutes  
 #### Surveillance détaillée  
-• Tarif mensuel fice pour sept métriques présélectionnées  
-• Données de métriques fournies toutes les minutes
+- Tarif mensuel fice pour sept métriques présélectionnées  
+- Données de métriques fournies toutes les minutes
 
 ## Déploiements AWS Elastic Beanstalk
 
@@ -116,3 +115,4 @@ Monitoring (Surveillance) de la console Amazon EC2
 - Productivité des devs
 - Grande évolutivité 
 - Contrôle total des ressources 
+
