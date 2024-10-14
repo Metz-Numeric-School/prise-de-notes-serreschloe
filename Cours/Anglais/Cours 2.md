@@ -159,14 +159,11 @@ I must ~~to~~ pay takes
 
 - Can : (utilisation 1) ability to do something; asking for permission
 - Could : (utilisation 2) ability to do something in the PAST; asking for permission (more polite)
-
 - Must : internal obligation
 - Mustn't : prohibition
-
 - Have to : external obligation
 - Need to : necessity
-
 - Will : (utilisation 1) suggestions
 - Would : (utilisation 2) polite request
-
 - Shall : with I and WE / very polite request
+
