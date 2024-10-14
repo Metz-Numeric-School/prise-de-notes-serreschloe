@@ -124,3 +124,49 @@ Disadvantages of petrol cars are :
 - lack of noise
 - wear of the battery
 - too much electronics so more breakdowns
+
+### Words
+
+Schizophrenia
+Worcestershire
+Choir
+Hypochondriasis
+Mischievous 
+Draught 
+Thorough
+Isthmus
+Squirrel 
+Synecdoche
+Uncharted
+Mnemonics
+Cough
+Breakthrough
+Awkward
+
+## The use of modals 
+
+### auxiliaries : 
+- can / could
+- must (external obligation) /should (advice) /shall 
+- may/might (probability)
+- have to (obligation )/need to
+
+#### modal + verb
+I must ~~to~~ pay takes 
+
+
+### Modal verbs :
+
+- Can : (utilisation 1) ability to do something; asking for permission
+- Could : (utilisation 2) ability to do something in the PAST; asking for permission (more polite)
+
+- Must : internal obligation
+- Mustn't : prohibition
+
+- Have to : external obligation
+- Need to : necessity
+
+- Will : (utilisation 1) suggestions
+- Would : (utilisation 2) polite request
+
+- Shall : with I and WE / very polite request
