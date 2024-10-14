@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Anglais/Cours 1.md",
+                "file": "Cours/Anglais/Cours 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Anglais/Cours 1.md",
+                "file": "Cours/Anglais/Cours 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Anglais/Cours 1.md",
+                "file": "Cours/Anglais/Cours 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Anglais/Cours 1.md"
+                "file": "Cours/Anglais/Cours 2.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "c373b9d5d8d9f061",
   "lastOpenFiles": [
-    "Cours/Culture Juridique/Culture Juridique 1.md",
+    "preposition of place.png",
     "Cours/Anglais/Cours 1.md",
+    "Cours/Anglais/Cours 2.md",
+    "Cours/Culture Juridique/Culture Juridique 1.md",
     "Cours/Culture Juridique",
     "Cours/Cloud Computing/Cloud Computing Module 5.md",
     "Pasted image 20241008094238.png",
@@ -189,7 +191,6 @@
     "Cours/Module A",
     "Veille",
     "Cours",
-    "ALGO/Sommaire.md",
-    "Welcome.md"
+    "ALGO/Sommaire.md"
   ]
 }
