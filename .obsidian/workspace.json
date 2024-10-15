@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Anglais/Cours 2.md",
+                "file": "Cours/Windows Server/DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Anglais/Cours 2.md",
+                "file": "Cours/Windows Server/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Anglais/Cours 2.md",
+                "file": "Cours/Windows Server/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Anglais/Cours 2.md"
+                "file": "Cours/Windows Server/DNS.md"
               }
             }
           }
@@ -148,9 +148,14 @@
   },
   "active": "35c6e1a11f7b3168",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Cours/Anglais/Cours 1.md",
+    "Cours/Windows Server/DNS.md",
+    "Cours/Windows Server",
+    "Cours/Gestion parc informatique/Cours 2 - 02-10-2024.md",
+    "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
     "Cours/Anglais/Cours 2.md",
     "preposition of place.png",
-    "Cours/Anglais/Cours 1.md",
     "Cours/Culture Juridique/Culture Juridique 1.md",
     "Cours/Culture Juridique",
     "Cours/Cloud Computing/Cloud Computing Module 5.md",
@@ -166,8 +171,6 @@
     "Pasted image 20241007105115.png",
     "Pasted image 20241007105035.png",
     "Cours/Cloud Computing",
-    "Cours/Gestion parc informatique/Cours 2 - 02-10-2024.md",
-    "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
     "Cours/Algo/Commandes Git - 2024-09-23.md",
     "Cours/Conception de projets informatique/Cours Mr. QUIRIN.md",
     "README.md",
@@ -189,8 +192,6 @@
     "Cours/Algo",
     "Cours/Sans titre 1",
     "Cours/Module A",
-    "Veille",
-    "Cours",
-    "ALGO/Sommaire.md"
+    "Veille"
   ]
 }
