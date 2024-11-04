@@ -16,10 +16,27 @@
                 "file": "Cours/Windows Server/DNS.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DNS"
+            }
+          },
+          {
+            "id": "14224d95cec1142c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Architecture Réseaux/Cours 1 -  04-11-2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cours 1 -  04-11-2024"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DNS"
             }
           },
           {
@@ -105,7 +130,9 @@
                 "file": "Cours/Windows Server/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DNS"
             }
           },
           {
@@ -116,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +155,9 @@
               "type": "outline",
               "state": {
                 "file": "Cours/Windows Server/DNS.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DNS"
             }
           }
         ]
@@ -146,15 +177,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35c6e1a11f7b3168",
+  "active": "14224d95cec1142c",
   "lastOpenFiles": [
-    "Cours/Windows Server/DHCP.md",
+    "Pasted image 20241104115115.png",
+    "Pasted image 20241104095941.png",
+    "Pasted image 20241104095222.png",
+    "Pasted image 20241104092558.png",
+    "Pasted image 20241104090939.png",
+    "Cours/Architecture Réseaux/Cours 1 -  04-11-2024.md",
+    "Cours/Architecture Réseaux",
+    "Cours/Gestion parc informatique/Cours 2 - 02-10-2024.md",
+    "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
     "Cours/Windows Server/DNS.md",
+    "Cours/Windows Server/DHCP.md",
     "Untitled.canvas",
     "Cours/Anglais/Cours 1.md",
     "Cours/Windows Server",
-    "Cours/Gestion parc informatique/Cours 2 - 02-10-2024.md",
-    "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
     "Cours/Anglais/Cours 2.md",
     "preposition of place.png",
     "Cours/Culture Juridique/Culture Juridique 1.md",
@@ -170,14 +208,11 @@
     "Pasted image 20241007135129.png",
     "Cours/Cloud Computing/Cloud Computing Module 1.md",
     "Pasted image 20241007105115.png",
-    "Pasted image 20241007105035.png",
     "Cours/Cloud Computing",
     "Cours/Algo/Commandes Git - 2024-09-23.md",
     "Cours/Conception de projets informatique/Cours Mr. QUIRIN.md",
     "README.md",
     "Cours/Anglais",
-    "Pasted image 20240925134354.png",
-    "Pasted image 20240925115015.png",
     "Cours/Algo/Séance 2.md",
     "Cours/Gestion parc informatique",
     "Cours/Algo/Séance 1.md",
@@ -188,11 +223,8 @@
     "Cours/Algo/Opérateurs de comparaison.md",
     "Cours/Algo/Exemples de scripts.md",
     "Cours/Algo/Algo 10-09-2024.md",
-    "Veille/Ressources web.md",
-    "fonction.md",
     "Cours/Algo",
     "Cours/Sans titre 1",
-    "Cours/Module A",
-    "Veille"
+    "Cours/Module A"
   ]
 }
