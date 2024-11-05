@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35c6e1a11f7b3168",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Windows Server/DNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DNS"
-            }
-          },
-          {
             "id": "14224d95cec1142c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Architecture Réseaux/Cours 1 -  04-11-2024.md",
+                "file": "Cours/Architecture Réseaux/Cours 2 -- 2024-11-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cours 1 -  04-11-2024"
+              "title": "Cours 2 -- 2024-11-05"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,35 +164,36 @@
   },
   "active": "14224d95cec1142c",
   "lastOpenFiles": [
-    "Pasted image 20241104115115.png",
-    "Pasted image 20241104095941.png",
-    "Pasted image 20241104095222.png",
-    "Pasted image 20241104092558.png",
-    "Pasted image 20241104090939.png",
+    "Pasted image 20241105141938.png",
+    "Pasted image 20241105141238.png",
+    "Pasted image 20241105140810.png",
+    "Pasted image 20241105140217.png",
+    "Pasted image 20241105120142.png",
+    "Pasted image 20241105115501.png",
+    "Pasted image 20241105114604.png",
+    "Pasted image 20241105105409.png",
+    "Pasted image 20241105105335.png",
+    "Pasted image 20241105105310.png",
+    "Pasted image 20241105105247.png",
     "Cours/Architecture Réseaux/Cours 1 -  04-11-2024.md",
+    "Cours/Architecture Réseaux/Cours 2 -- 2024-11-05.md",
+    "Cours/Windows Server/DNS.md",
     "Cours/Architecture Réseaux",
     "Cours/Gestion parc informatique/Cours 2 - 02-10-2024.md",
     "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
-    "Cours/Windows Server/DNS.md",
     "Cours/Windows Server/DHCP.md",
     "Untitled.canvas",
     "Cours/Anglais/Cours 1.md",
     "Cours/Windows Server",
     "Cours/Anglais/Cours 2.md",
-    "preposition of place.png",
     "Cours/Culture Juridique/Culture Juridique 1.md",
     "Cours/Culture Juridique",
     "Cours/Cloud Computing/Cloud Computing Module 5.md",
-    "Pasted image 20241008094238.png",
-    "Pasted image 20241008094143.png",
     "Cours/Conception de projets informatique",
     "Cours/Cloud Computing/Cloud Computing Module 4.md",
     "Cours/Cloud Computing/Cloud Computing Module 3.md",
-    "Pasted image 20241007153408.png",
     "Cours/Cloud Computing/Cloud Computing Module 2.md",
-    "Pasted image 20241007135129.png",
     "Cours/Cloud Computing/Cloud Computing Module 1.md",
-    "Pasted image 20241007105115.png",
     "Cours/Cloud Computing",
     "Cours/Algo/Commandes Git - 2024-09-23.md",
     "Cours/Conception de projets informatique/Cours Mr. QUIRIN.md",
@@ -222,7 +208,6 @@
     "Cours/Algo/LES VARIABLES.md",
     "Cours/Algo/Opérateurs de comparaison.md",
     "Cours/Algo/Exemples de scripts.md",
-    "Cours/Algo/Algo 10-09-2024.md",
     "Cours/Algo",
     "Cours/Sans titre 1",
     "Cours/Module A"
