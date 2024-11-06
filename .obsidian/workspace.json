@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14224d95cec1142c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/VIRTUALISATION.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VIRTUALISATION"
-            }
-          },
-          {
             "id": "5e23437e436874ba",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "Cours 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,21 +164,20 @@
   },
   "active": "5e23437e436874ba",
   "lastOpenFiles": [
-    "Pasted image 20241106093236.png",
+    "Cours/VIRTUALISATION.md",
     "Cours/Conception de projets informatique/Cours 1.md",
+    "Pasted image 20241106153612.png",
+    "Pasted image 20241106140926.png",
+    "Pasted image 20241106110501.png",
+    "Pasted image 20241106105449.png",
+    "Pasted image 20241106093236.png",
     "Cours/Conception de projet informatique",
     "Cours/Architecture Réseaux/Cours 2 -- 2024-11-05.md",
-    "Cours/VIRTUALISATION.md",
     "Pasted image 20241105144557.png",
     "Pasted image 20241105144525.png",
     "Pasted image 20241105141938.png",
     "Pasted image 20241105141238.png",
     "Pasted image 20241105140810.png",
-    "Pasted image 20241105140217.png",
-    "Pasted image 20241105120142.png",
-    "Pasted image 20241105115501.png",
-    "Pasted image 20241105114604.png",
-    "Pasted image 20241105105409.png",
     "Cours/Architecture Réseaux/Cours 1 -  04-11-2024.md",
     "Cours/Windows Server/DNS.md",
     "Cours/Architecture Réseaux",
