@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Architecture Réseaux/Cours 2 -- 2024-11-05.md",
+                "file": "Cours/VIRTUALISATION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cours 2 -- 2024-11-05"
+              "title": "VIRTUALISATION"
+            }
+          },
+          {
+            "id": "5e23437e436874ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Conception de projets informatique/Cours 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cours 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,8 +177,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14224d95cec1142c",
+  "active": "5e23437e436874ba",
   "lastOpenFiles": [
+    "Pasted image 20241106093236.png",
+    "Cours/Conception de projets informatique/Cours 1.md",
+    "Cours/Conception de projet informatique",
+    "Cours/Architecture Réseaux/Cours 2 -- 2024-11-05.md",
+    "Cours/VIRTUALISATION.md",
+    "Pasted image 20241105144557.png",
+    "Pasted image 20241105144525.png",
     "Pasted image 20241105141938.png",
     "Pasted image 20241105141238.png",
     "Pasted image 20241105140810.png",
@@ -172,11 +194,7 @@
     "Pasted image 20241105115501.png",
     "Pasted image 20241105114604.png",
     "Pasted image 20241105105409.png",
-    "Pasted image 20241105105335.png",
-    "Pasted image 20241105105310.png",
-    "Pasted image 20241105105247.png",
     "Cours/Architecture Réseaux/Cours 1 -  04-11-2024.md",
-    "Cours/Architecture Réseaux/Cours 2 -- 2024-11-05.md",
     "Cours/Windows Server/DNS.md",
     "Cours/Architecture Réseaux",
     "Cours/Gestion parc informatique/Cours 2 - 02-10-2024.md",
@@ -206,10 +224,7 @@
     "Cours/Algo/BOUCLES.md",
     "Cours/Algo/Listes.md",
     "Cours/Algo/LES VARIABLES.md",
-    "Cours/Algo/Opérateurs de comparaison.md",
-    "Cours/Algo/Exemples de scripts.md",
     "Cours/Algo",
-    "Cours/Sans titre 1",
-    "Cours/Module A"
+    "Cours/Sans titre 1"
   ]
 }
