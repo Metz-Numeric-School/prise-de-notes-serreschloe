@@ -157,13 +157,49 @@ I must ~~to~~ pay takes
 
 ### Modal verbs :
 
-- Can : (utilisation 1) ability to do something; asking for permission
+- Can : (utilisation 1) ability to do something; asking for permission, talk about skills
 - Could : (utilisation 2) ability to do something in the PAST; asking for permission (more polite)
 - Must : internal obligation
 - Mustn't : prohibition
-- Have to : external obligation
+- Don't have to : no necessity 
+- Have to : external obligation (taxes, ...)
 - Need to : necessity
 - Will : (utilisation 1) suggestions
 - Would : (utilisation 2) polite request
 - Shall : with I and WE / very polite request
+- Might : probability
+
+Have : verbe d'action 
+Must -> jamais au passé sinon had to
+
+1)  could
+2)  don't have to
+3) can / can't
+4) Shall
+5) must / have to
+6) mustn't
+7) Could
+8) must
+9) will
+10)  must
+11) Could / Can
+12) had to / needn't - don't have to 
+13) shall
+14) can 
+15) had to
+16) must - will 
+17) mustn't - have to
+18) couldn't 
+19) needn't
+20) can
+21) mustn't / have to
+22) must 
+23) mustn't
+24) must / has to 
+25) Can / Could
+26) mustn't 
+27) must / have to
+28) could
+29) Can  - can't
+30) mustn't - will
 
