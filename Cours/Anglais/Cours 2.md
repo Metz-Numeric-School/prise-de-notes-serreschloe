@@ -235,11 +235,17 @@ Interviewer -> interviewee (le candidat)
 graduted (verb)
 currently = actuellement (adv)
 How do you manage (handle) strees?
-ful-time or part-time job
+full-time or part-time job
 strengths and weaknesses
 How long have you been at MNS ?
 
+is well known -> connu
+have a sit -> 
 
+adj + ing = what it makes me feel (situation)
+adj + ed = describe the feeling (emotion)
+
+loans -> pret bancaire
 
 
 
