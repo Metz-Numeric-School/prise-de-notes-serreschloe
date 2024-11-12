@@ -203,3 +203,44 @@ Must -> jamais au passé sinon had to
 29) Can  - can't
 30) mustn't - will
 
+list :
+
+1) 5 things as a french citizen must do 
+- French citizen must pay taxes
+- French citizen must respect the law
+- French citizen must vote
+- French citizen must recycle
+- French citizen must study at school
+
+2) 3 things you might do in Christmas 
+- i might decorate my house with Christmas lights
+- i might create a santa letter
+- i might watch Christmas movies with my familly
+
+3) 3 things you used to do in the past (capacity)
+- In the past, i used to playing badminton all weekends
+- In the past, i used to reading more books
+- in the past, i used to 
+
+
+Notes :
+
+| Informal         | Formal                                                                     |
+| ---------------- | -------------------------------------------------------------------------- |
+| Hi               | Hello / Good morning                                                       |
+| Can i help you ? | How may i help you ? How can i assist you ?                                |
+| Thanks           | Thank you : you are welcome - my pleasure - Don't mention it - Sir/ Madame |
+| Boss             | The head of the company (CEO)                                              |
+Interviewer -> interviewee (le candidat)
+graduted (verb)
+currently = actuellement (adv)
+How do you manage (handle) strees?
+ful-time or part-time job
+strengths and weaknesses
+How long have you been at MNS ?
+
+
+
+
+
+
