@@ -164,10 +164,12 @@ I must ~~to~~ pay takes
 - Don't have to : no necessity 
 - Have to : external obligation (taxes, ...)
 - Need to : necessity
+- should : Advice
 - Will : (utilisation 1) suggestions
 - Would : (utilisation 2) polite request
 - Shall : with I and WE / very polite request
 - Might : probability
+- May : permission very formal
 
 Have : verbe d'action 
 Must -> jamais au passé sinon had to
@@ -247,6 +249,22 @@ adj + ed = describe the feeling (emotion)
 
 loans -> pret bancaire
 
-
-
-
+Exercice:
+1) Have to
+2) should
+3) had to
+4) must / should
+5) could
+6) must
+7) must
+8) must
+9) can
+10) may
+11) mustn't
+12) have to
+13) can
+14) can't
+15) can
+16) mustn't
+17) could
+18) mustn't
