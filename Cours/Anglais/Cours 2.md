@@ -1,11 +1,11 @@
 Prepositions of place
 
 at -> to specify your location, at your point 
-on -> surface (on the street, on the first floor, on the table)
-in -> (inside) enclosed space (in the room, in France)
+on -> surface (on the street, on the first floor, on the table), media
+in -> (inside) enclosed space (in the room, in France, in the building)
 
 In (inside) -> 3D or enclosed space
-On -> surface
+On -> surface, media
 At -> location
 
 ![[preposition of place.png]]
@@ -268,3 +268,30 @@ Exercice:
 16) mustn't
 17) could
 18) mustn't
+
+### Preposition of time :
+
+1) at : specific time (ex: at 10:00, at noon, at midnight, at the weekend)
+2) on : days (ex: on Monday, on Christmas day, on my birthday)
+3) in : during a time (ex: in the evening, in 1998, in winter, in Christmas)
+
+### Present Perfect : 
+
+##### have/has (auxiliary) + past participe form
+
+**Unfinished action** : (Ex: Theo has been at school since september (date). They have been married for 3 years (duration))
+**Life experience** : ever/never  (I have never seen a Gorilla)
+**Recent actions** : (I have seen Matheo tis week)
+
+
+### Future :
+
+Will + verb -> uncertain, rapid decision
+Be + going to + verb  -> certain, evidence, 
+
+
+In 1937(nineteen thirty-seven), Patrick McDonald opened a hot dog stand, named « Airdome » in [Arcadia](https://fr.wikipedia.org/wiki/Arcadia_(Californie)), in California. The business was not successful, but in 1940(nineteen forty), his two sons [Richard et Maurice](https://fr.wikipedia.org/wiki/Richard_et_Maurice_McDonald) take up the business, and moved in [San Bernardino](https://fr.wikipedia.org/wiki/San_Bernardino_(Californie)), and were renamed « restaurant McDonald's ». [McDonald's](https://en.wikipedia.org/wiki/McDonald%27s) was founded in 1940 by the McDonald brothers, Richard and Maurice. McDonald's became a popular meeting place for young people (the town's high school is located nearby), for employees of the nearby industries, and for the general public. Eight years later, after noticing that the majority of their income came from hamburgers, the two brothers closed their restaurant for several months to develop the innovative fast-food burger service. In 1954, Ray Kroc, a milkshake machine salesman, discovered the McDonald brothers' restaurant and was impressed by their business. He proposed franchising the concept nationally, and in 1955, he opened the first McDonald's franchise, restaurant in Illinois. In 1961, Kroc bought out the McDonald brothers for $2.7 million, taking full control of the company.They simplified the menu to focus on burgers, fries and drinks, introducing the "Speedee Service System" which revolutionized quick service.
+
+
+
+
