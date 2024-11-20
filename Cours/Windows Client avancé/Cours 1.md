@@ -125,4 +125,49 @@ Medicat, est un utilitaire bootable qui inclut une suite d’outils pour dépann
 - Réinitialiser et suppression de mots de passe Windows
 
 
+## 3. Optimiser l’utilisation de votre ordinateur
+
+### Gestion des disques
+
+Le « Gestionnaire de disque dur » est l'outil de Microsoft qui vous permet de gérer un
+disque. Cet outil vous sera donc utile pour :
+
+- Ajouter un nouveau disque
+- Partitionner un disque dur, pour diviser un disque physique en plusieurs disques logiques
+- Formater un disque dur
+
+Lors d'une réinstallation de Windows, cet outil vous sera présenté d'une façon un peu
+différente mais les étapes resteront les mêmes. Vous aurez ainsi la possibilité de formater vos
+disques durs à l’installation de Windows
+
+### Nettoyage des disques
+
+Votre ordinateur doit être nettoyé comme on nettoie une pièce. Il faut que l'utilisateur range
+ses fichiers dans les bons dossiers, tout comme nous rangeons nos affaires dans les placards, et qu’il supprime tout ce qui traîne, c'est-à-dire tout ce qui doit aller à la poubelle
+
+Encore une fois, Windows met à votre disposition un outil vous permettant d'effectuer cette tâche.
+Cet outil s'appelle « Nettoyage de disque ».
+
+Son utilisation est très simple : il suffit de cocher les fichiers à supprimer et d’appuyer sur « OK
+
+### Automatiser une tache
+
+Pour automatiser une tâche, Windows met à votre disposition un outil appelé : « Planificateur de tâches »
+Le « Planificateur de tâches » vous permet de lancer un programme à une certaine
+fréquence. Dans le cas du nettoyeur de disque, vous pourrez donc lancer le nettoyage du disque tous les lundis par exemple
+
+Ouvrez un CMD et entrez la commande « cleanmgr /c /sageset:1 »
+cleanmgr c’est donc le nettoyeur, /c vous permet de spécifier le disque (vous pouvez aussi choisir
+un autre disque), /sageset:1 va ouvrir le nettoyeur de disque, afin que vous puissiez cocher les
+dossiers que vous souhaitez nettoyer. Une fois fermé, le numéro 1 (vous pouvez en choisir un autre) aura retenu votre configuration
+Entrez la commande « cleanmgr /c /sagerun:1 », /sagerun:1 va cette fois-ci lancer le nettoyeur de
+disque, avec les paramètres spécifiés correspondant au numéro 1, c'est-à-dire ce que vous avez
+renseigné juste avant.
+
+Créez un fichier exécutable avec l’extension « .bat » comprenant la commande du dessus
+
+Ouvrez le « Planificateur de tâches »
+Sur la droite, sélectionnez « Créer une tâche de base »
+Donnez un nom, une description, une fréquence à votre tache
+Sélectionnez le script en « .bat » créé précédemment
 
