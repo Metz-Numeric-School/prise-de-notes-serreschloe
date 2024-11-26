@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Windows Client avancé/Cours 1.md",
+                "file": "Cours/Linux avancé/Étape 4 Mise à jour de server1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cours 1"
+              "title": "Étape 4 Mise à jour de server1"
             }
           }
         ],
@@ -191,10 +191,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1106cc6037adead",
+  "active": "6c948228a6c79cce",
   "lastOpenFiles": [
-    "Cours/Anglais/Cours 2.md",
+    "Cours/Linux avancé/Étape 3 Connexion SSH aux serveurs.md",
+    "Cours/Linux avancé/Étape 4 Mise à jour de server1.md",
+    "Cours/Linux avancé/Étape 2  Configuration des interfaces réseau.md",
+    "Cours/Linux avancé/Étape 1 Installation et configuration du laboratoire.md",
+    "Cours/Linux avancé/Etape 0 Installation et utilisation de sudo.md",
+    "Cours/Linux avancé",
     "Cours/Windows Client avancé/Cours 1.md",
+    "Cours/Anglais/Cours 2.md",
     "Cours/Windows Client avancé",
     "Cours/Anglais/Cours 1.md",
     "Cours/Conception de projets informatique/Cours 2.md",
@@ -233,12 +239,6 @@
     "Cours/Conception de projets informatique/Cours Mr. QUIRIN.md",
     "README.md",
     "Cours/Anglais",
-    "Cours/Algo/Séance 2.md",
-    "Cours/Gestion parc informatique",
-    "Cours/Algo/Séance 1.md",
-    "Cours/Algo/Functions.md",
-    "Cours/Algo/BOUCLES.md",
-    "Cours/Algo/Listes.md",
-    "Cours/Algo"
+    "Cours/Gestion parc informatique"
   ]
 }
