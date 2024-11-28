@@ -19,3 +19,9 @@
 - deb http://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
 - deb-src http://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
     
+## Mettre à Jour le système
+
+1. Mettre à jour la liste des paquets : **sudo apt update**
+2. Mettre à niveau les paquets installés : **sudo apt full-upgrade**
+3. Utiliser `journalctl` pour vérifier les logs de mise à jour : **sudo journalctl -u apt-daily.service**
+
