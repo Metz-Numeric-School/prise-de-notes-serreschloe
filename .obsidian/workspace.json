@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5e1eeb64b9a11548",
+        "id": "e0cec321b1d212e9",
         "type": "tabs",
         "children": [
           {
-            "id": "5e23437e436874ba",
+            "id": "6e7b0d064d326bb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Anglais/Cours 2.md",
+                "file": "Cours/Connaissances générales et comportementale/Cours 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cours 2"
-            }
-          },
-          {
-            "id": "e62be5584c5d2c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Conception de projets informatique/Cours 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cours 2"
-            }
-          },
-          {
-            "id": "c1106cc6037adead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Linux avancé/Etape 6 Transformation de server1 en serveur DNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Etape 6 Transformation de server1 en serveur DNS"
+              "title": "Cours 1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,10 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c948228a6c79cce",
+  "active": "6e7b0d064d326bb1",
   "lastOpenFiles": [
-    "Cours/Linux avancé/Etape 5 Transformation de server1 en passerelle réseau.md",
+    "Pasted image 20241202134538.png",
+    "Cours/Connaissances générales et comportementale/Cours 1.md",
+    "Cours/Connaissances générales et comportementale",
+    "Cours/Conception de projets informatique/Cours 2.md",
     "Cours/Linux avancé/Etape 6 Transformation de server1 en serveur DNS.md",
+    "Cours/Linux avancé/Etape 5 Transformation de server1 en passerelle réseau.md",
     "Cours/Linux avancé/Étape 4 Mise à jour de server1.md",
     "Cours/Linux avancé/Étape 3 Connexion SSH aux serveurs.md",
     "Cours/Linux avancé/Étape 2  Configuration des interfaces réseau.md",
@@ -205,7 +180,6 @@
     "Cours/Anglais/Cours 2.md",
     "Cours/Windows Client avancé",
     "Cours/Anglais/Cours 1.md",
-    "Cours/Conception de projets informatique/Cours 2.md",
     "Cours/Conception de projets informatique/Cours 1.md",
     "Cours/VIRTUALISATION.md",
     "Pasted image 20241106153612.png",
@@ -235,10 +209,7 @@
     "Cours/Cloud Computing/Cloud Computing Module 4.md",
     "Cours/Cloud Computing/Cloud Computing Module 3.md",
     "Cours/Cloud Computing/Cloud Computing Module 2.md",
-    "Cours/Cloud Computing/Cloud Computing Module 1.md",
     "Cours/Cloud Computing",
-    "Cours/Algo/Commandes Git - 2024-09-23.md",
-    "Cours/Anglais",
-    "Cours/Gestion parc informatique"
+    "Cours/Anglais"
   ]
 }
