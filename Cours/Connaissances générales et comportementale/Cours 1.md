@@ -21,3 +21,7 @@ L'information est une transmission de données à sens unique
 
 ![[Pasted image 20241202134538.png]]
 
+
+Ma valeur & moi 
+
+Générosité -> C'est la volonté d'apporter de l'aide ou du soutien envers chaques personnes
