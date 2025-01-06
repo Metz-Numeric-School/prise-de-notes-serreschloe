@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Windows Server/DFS–R (Distributed File System Replication).md",
+                "file": "Cours/Architecture Réseaux/Découpage plage adresse IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DFS–R (Distributed File System Replication)"
+              "title": "Découpage plage adresse IP"
             }
           }
         ]
@@ -151,8 +151,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
             }
           }
         ],
@@ -176,8 +176,13 @@
   },
   "active": "eb1af8e0a0814a94",
   "lastOpenFiles": [
-    "Cours/Windows Server/Remote App (serveur d'applications).md",
+    "Cours/VIRTUALISATION.md",
+    "Cours/Architecture Réseaux/Découpage plage adresse IP.md",
+    "Cours/Architecture Réseaux/Cours 1 -  04-11-2024.md",
+    "Cours/Architecture Réseaux/Cours 2 -- 2024-11-05.md",
+    "Pasted image 20250106140901.png",
     "Cours/Windows Server/DFS–R (Distributed File System Replication).md",
+    "Cours/Windows Server/Remote App (serveur d'applications).md",
     "Cours/Windows Client avancé/Cours 2.md",
     "Cours/Windows Serveur Avancé",
     "preposition of place.png",
@@ -198,18 +203,14 @@
     "Cours/Windows Client avancé",
     "Cours/Anglais/Cours 1.md",
     "Cours/Conception de projets informatique/Cours 1.md",
-    "Cours/VIRTUALISATION.md",
     "Pasted image 20241106153612.png",
     "Pasted image 20241106140926.png",
     "Pasted image 20241106110501.png",
     "Pasted image 20241106105449.png",
     "Pasted image 20241106093236.png",
     "Cours/Conception de projet informatique",
-    "Cours/Architecture Réseaux/Cours 2 -- 2024-11-05.md",
     "Pasted image 20241105144557.png",
     "Pasted image 20241105144525.png",
-    "Pasted image 20241105141938.png",
-    "Cours/Architecture Réseaux/Cours 1 -  04-11-2024.md",
     "Cours/Windows Server/DNS.md",
     "Cours/Architecture Réseaux",
     "Cours/Gestion parc informatique/Cours 2 - 02-10-2024.md",
@@ -219,9 +220,7 @@
     "Cours/Windows Server",
     "Cours/Culture Juridique/Culture Juridique 1.md",
     "Cours/Culture Juridique",
-    "Cours/Cloud Computing/Cloud Computing Module 5.md",
     "Cours/Conception de projets informatique",
-    "Cours/Cloud Computing/Cloud Computing Module 4.md",
     "Cours/Cloud Computing"
   ]
 }
