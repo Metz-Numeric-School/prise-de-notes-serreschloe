@@ -1,5 +1,6 @@
 ![[Pasted image 20250106140901.png]]
 
+
 **/12 -> compter 12 de gauche à droite**
 ### Pour savoir la première adresse, il faut tout mettre à 0 
 
