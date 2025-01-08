@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes cours 2025-01-07.md",
+                "file": "Cours/Windows Client avancé/Cours 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes cours 2025-01-07"
+              "title": "Cours 3"
             }
           }
         ]
@@ -176,12 +176,14 @@
   },
   "active": "eb1af8e0a0814a94",
   "lastOpenFiles": [
-    "Cours/Architecture Réseaux/Cours 2 -- 2024-11-05.md",
-    "Notes cours 2025-01-07.md",
-    "Cours/Architecture Réseaux/Notes Packet Tracer.md",
-    "Cours/VIRTUALISATION.md",
+    "Cours/Architecture Réseaux/Notes cours 2025-01-07.md",
+    "Cours/Windows Client avancé/Cours 3.md",
     "Cours/Architecture Réseaux/Découpage plage adresse IP.md",
+    "Cours/Architecture Réseaux/Notes Packet Tracer.md",
+    "Pasted image 20250107165015.png",
     "Cours/Architecture Réseaux/Cours 1 -  04-11-2024.md",
+    "Cours/Architecture Réseaux/Cours 2 -- 2024-11-05.md",
+    "Cours/VIRTUALISATION.md",
     "Pasted image 20250106140901.png",
     "Cours/Windows Server/DFS–R (Distributed File System Replication).md",
     "Cours/Windows Server/Remote App (serveur d'applications).md",
@@ -212,12 +214,10 @@
     "Pasted image 20241106093236.png",
     "Cours/Conception de projet informatique",
     "Pasted image 20241105144557.png",
-    "Pasted image 20241105144525.png",
     "Cours/Windows Server/DNS.md",
     "Cours/Architecture Réseaux",
     "Cours/Gestion parc informatique/Cours 2 - 02-10-2024.md",
     "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
-    "Cours/Windows Server/DHCP.md",
     "Untitled.canvas",
     "Cours/Windows Server",
     "Cours/Culture Juridique",

@@ -17,5 +17,9 @@ VLAN 10 -> administration
 VLAN 20 -> Employes
 VLAN 3O -> Invites
 
-## Mode TRUNK
+Switch vs HUB
 
+Switch -> Envoie et répond en même temps -> moins de collision -> Full Duplex
+HUB -> Half Duplex
+
+![[Pasted image 20250107165015.png]]
