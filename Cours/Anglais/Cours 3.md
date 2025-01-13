@@ -25,3 +25,40 @@ To harm -> mettre en danger
 A flaw -> un défaut
 gap -> écart
 
+Documentaire Youtube :
+
+- NIS South Korea
+- BND Germany 
+- DGSE France
+- ASIS Australia
+- FSB Russia
+- MSS Chine
+- RAW India
+- MI6 UK
+- MOSSAD Israel
+- CSIS Canada
+- NSA - USA
+- GIP - Saudi Arabia
+- 1 CIA - USA
+
+CIA : Central Intelligence Agency
+FBI : Federal Bureau of Investigation
+NSA : National Security Agency
+
+MI6 (**Military Intelligence, section 6**) :
+The **Secret Intelligence Service** (**SIS**), commonly known as **MI6** is UK’s Secret Intelligence Service. The Mi6 aims to stopping terrorism, disrupting the activity of hostile states, and giving the UK a cyber advantage. The MI6 work closely with MI5, GCHQ, HM Armed Forces, law enforcement and a range of other international partners. Some people work in the world and others work in the headquarters in Vauxhall, in London. The Mi6 was created in July 1909. 
+
+
+NSA : 
+The National Security Agency (NSA) is an intelligence agency of the United States Department of Defense, under the authority of the Director of National Intelligence (DNI). The NSA is responsible for monitoring, collecting and processing information and data for intelligence and anti-espionage purposes worldwide, specializing in a discipline known as signals intelligence (SIGINT). The NSA is also tasked with the protection of U.S. communications networks and information systems. The NSA was created in November 1952.
+
+### Past simple :
+? -> Did + Subject + verb ?
+negatif -> Subject + don't/doesn't + verbs
+positif -> Subject + verb in the past + COD/COI
+
+**whether -> peu importe**
+
+would prefer + to (verbe d'action)
+would rather (préférence) pas de "to"
+workload -> lot of work
