@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Windows Client avancé/Cours 3.md",
+                "file": "Cours/Anglais/Cours 3.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb1af8e0a0814a94",
+  "active": "6c948228a6c79cce",
   "lastOpenFiles": [
-    "Cours/Architecture Réseaux/Notes cours 2025-01-07.md",
+    "Cours/Anglais/Cours 2.md",
+    "Cours/Anglais/Cours 3.md",
     "Cours/Windows Client avancé/Cours 3.md",
+    "Cours/Architecture Réseaux/Notes cours 2025-01-07.md",
     "Cours/Architecture Réseaux/Découpage plage adresse IP.md",
     "Cours/Architecture Réseaux/Notes Packet Tracer.md",
     "Pasted image 20250107165015.png",
@@ -203,7 +205,6 @@
     "Cours/Linux avancé/Etape 0 Installation et utilisation de sudo.md",
     "Cours/Linux avancé",
     "Cours/Windows Client avancé/Cours 1.md",
-    "Cours/Anglais/Cours 2.md",
     "Cours/Windows Client avancé",
     "Cours/Anglais/Cours 1.md",
     "Cours/Conception de projets informatique/Cours 1.md",
@@ -217,7 +218,6 @@
     "Cours/Windows Server/DNS.md",
     "Cours/Architecture Réseaux",
     "Cours/Gestion parc informatique/Cours 2 - 02-10-2024.md",
-    "Cours/Gestion parc informatique/Cours 1  25-09-2024.md",
     "Untitled.canvas",
     "Cours/Windows Server",
     "Cours/Culture Juridique",
