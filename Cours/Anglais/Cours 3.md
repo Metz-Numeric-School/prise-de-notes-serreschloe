@@ -62,3 +62,30 @@ positif -> Subject + verb in the past + COD/COI
 would prefer + to (verbe d'action)
 would rather (préférence) pas de "to"
 workload -> lot of work
+
+## There are 12 different types of cybersecurity. 
+
+For example: 
+### 1. Network Security
+Protects internal networks from unauthorized access, intrusions, and attacks.
+- Firewall: Filters incoming and outgoing network traffic based on predefined security rules.
+- Intrusion Detection/Prevention Systems (IDS/IPS): Detects suspicious or malicious activity, and IPS actively blocks threats in real-time.
+
+### 2. Application Security
+Focuses on ensuring applications are free from vulnerabilities and secure throughout their lifecycle.
+- Penetration Testing: Simulating attacks to identify and fix weaknesses in applications.
+- Secure Coding: Writing code that mitigates vulnerabilities such as buffer overflows or SQL injections.
+
+### 3. Data Security
+Protects sensitive data at rest, in transit, and during processing.
+- Encryption: Ensures that data is only readable by authorized parties, using algorithms like AES or RSA.
+- Backups: Regularly storing data copies in secure locations to prevent loss due to breaches or hardware failure.
+
+### 4. Cloud Security
+Protects cloud-based systems, applications, and data.
+- Infrastructure Security: Ensuring virtual machines, storage, and networks in the cloud are secure.
+- Identity and Access Management (IAM): Managing permissions and access to cloud resources using tools like multi-factor authentication.
+
+### 5. Endpoint Security
+Focuses on securing devices such as laptops, desktops, mobile phones, and IoT devices.
+- Tools: Antivirus, Endpoint Detection and Response (EDR), and Mobile Device Management (MDM).
