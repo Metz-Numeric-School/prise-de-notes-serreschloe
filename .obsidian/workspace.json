@@ -13,30 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Anglais/Cours 2.md",
+                "file": "Cours/Windows Server/Windows Deployment Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cours 2"
+              "title": "Windows Deployment Services"
             }
           },
           {
             "id": "0453c8bc3c739bd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cours/Culture Juridique/Chapitre 2  Contenu et validité d’un contrat de  travail.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20241105105247.png"
               },
-              "icon": "lucide-file",
-              "title": "Chapitre 2  Contenu et validité d’un contrat de  travail"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241105105247"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,10 +186,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0453c8bc3c739bd8",
+  "active": "eb1af8e0a0814a94",
   "lastOpenFiles": [
-    "Cours/Culture Juridique/Chapitre 1 La formation du contrat de travail.md",
+    "Cours/Anglais/Cours 2.md",
+    "Pasted image 20241105105247.png",
+    "Cours/Windows Server/Windows Deployment Services.md",
     "Cours/Culture Juridique/Chapitre 2  Contenu et validité d’un contrat de  travail.md",
+    "Cours/Culture Juridique/Chapitre 1 La formation du contrat de travail.md",
     "Cours/Culture Juridique/Notes Culture Juridique.md",
     "Cours/Architecture Réseaux/Notes cours 2025-01-0.md",
     "Procedure Pnetlab avec Switch Layer 3.md",
@@ -202,7 +202,6 @@
     "Cours/Architecture Réseaux/Découpage plage adresse IP.md",
     "Cours/Anglais/Documentary.md",
     "Cours/Anglais/Cours 3.md",
-    "Cours/Anglais/Cours 2.md",
     "Cours/Anglais/Cours 1.md",
     "Cours/Windows Client avancé/Cours 3.md",
     "Pasted image 20250107165015.png",
@@ -223,14 +222,11 @@
     "Cours/Linux avancé/Etape 5 Transformation de server1 en passerelle réseau.md",
     "Cours/Linux avancé/Étape 4 Mise à jour de server1.md",
     "Cours/Linux avancé/Étape 3 Connexion SSH aux serveurs.md",
-    "Cours/Linux avancé/Étape 2  Configuration des interfaces réseau.md",
-    "Cours/Linux avancé/Étape 1 Installation et configuration du laboratoire.md",
     "Cours/Linux avancé",
     "Cours/Windows Client avancé",
     "Pasted image 20241106153612.png",
     "Pasted image 20241106140926.png",
     "Pasted image 20241106110501.png",
-    "Pasted image 20241106105449.png",
     "Cours/Conception de projet informatique",
     "Cours/Architecture Réseaux",
     "Untitled.canvas",
