@@ -21,3 +21,4 @@ La musique est de plus en plus utilisée dans le domaine médical, notamment en 
 
 **Conclusion** :
 La musique n’est pas seulement un art ou un divertissement, c’est aussi un puissant stimulateur cérébral. Elle active plusieurs régions du cerveau, renforce la mémoire, améliore l’apprentissage et favorise le bien-être émotionnel. Son rôle dans la plasticité neuronale et son utilisation en thérapie en font un outil précieux pour toutes les générations. Que l’on écoute de la musique, que l’on chante ou que l’on joue d’un instrument, les effets bénéfiques sur le cerveau sont indéniables. Une raison de plus pour intégrer la musique dans notre quotidien et en faire un allié de notre santé mentale et cognitive !
+
