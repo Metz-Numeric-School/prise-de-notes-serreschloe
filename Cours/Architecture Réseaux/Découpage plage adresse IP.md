@@ -19,3 +19,6 @@ Capacité maximal Classe B  = Subnet mask classe B = /12
 Capacité maximal Classe C = Subnet mask classe C = /16
 
 
+
+
+
