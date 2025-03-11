@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES 2025-03-05.md",
+                "file": "NOTES pour diplome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NOTES 2025-03-05"
+              "title": "NOTES pour diplome"
             }
           }
         ],
@@ -192,12 +192,14 @@
   },
   "active": "b1ef6d99979405ba",
   "lastOpenFiles": [
+    "Cours/Architecture Réseaux/NOTES 2025-03-05.md",
+    "NOTES pour diplome.md",
+    "Pasted image 20250305143220.png",
     "Pasted image 20250305120201.png",
     "Pasted image 20250305120134.png",
     "Pasted image 20250305111545.png",
     "Pasted image 20250305091956.png",
     "Cours/Architecture Réseaux/Découpage plage adresse IP.md",
-    "NOTES 2025-03-05.md",
     "Cours/Architecture Réseaux/Note DHCP Packet Tracer.md",
     "Pasted image 20250304134543.png",
     "Pasted image 20250304133506.png",
@@ -222,9 +224,7 @@
     "Cours/Anglais/Cours 3.md",
     "Cours/Anglais/Cours 1.md",
     "Cours/Windows Client avancé/Cours 3.md",
-    "Pasted image 20250107165015.png",
     "Cours/VIRTUALISATION.md",
-    "Pasted image 20250106140901.png",
     "Cours/Windows Server/DFS–R (Distributed File System Replication).md",
     "Cours/Windows Server/Remote App (serveur d'applications).md",
     "Cours/Windows Client avancé/Cours 2.md",
