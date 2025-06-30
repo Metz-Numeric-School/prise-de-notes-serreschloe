@@ -15,6 +15,7 @@ Ajouter 2 cartes réseaux
 2 vmnet 10 bridge NE PAS METTRE LE HOST-ONLY
 
 Pas besoin de mettre config dans la procedure
+
 ## INSTALLATION OPNSENSE
 
 Login : installer
@@ -81,6 +82,7 @@ Ensuite installation proxy
 Système -> firmware -> greffons (pluggin) -> chercher le proxy squid -> cliquer + pour l'installer   -> cliquer sur Alimentation et redémarrer une fois qu'il est installer 
 
 Services -> Squid Web proxy -> Forward proxy -> interface LAN -> Certificat à utiliser c'est celui qu'on a créer avant 
+
 Dans paramètres généraux -> activer le proxy -> cliquer sur petite flèche pour paramètre cache locale -> Activer le cache local -> Appliquer
 
 ## CREATION DE REGLES PARE - FEU : 
@@ -104,6 +106,9 @@ Dans l'inspection SSL -> cliquer sur "Add a new firewall rule" -> tout est prér
 Faire pareil sur proxy HTTP transparent -> cliquer sur le lien orange et appliquer les changements
 
 Normalement on retrouve une connection internet sans avoir besoin de renseigner le proxy manuel 
+
+
+
 
 dans proxy -> Administration -> Listes de contrôle -> Ajouter Blacklist -> mettre URL -> catégories rien de selectioné -> description blacklist -> Appliquer -> télécharger les ACLs
 
