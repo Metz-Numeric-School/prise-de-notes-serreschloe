@@ -1,4 +1,6 @@
 
+Scriping = Automatiser des tâches 
+
 Langage d'automatisation : 
 
 - Python (pas besoin d'être compilé)

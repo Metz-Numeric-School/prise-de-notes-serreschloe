@@ -8,49 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5c0673753def515",
+            "id": "9fbe19d79d185605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Anglais/Business idioms and phrases.md",
+                "file": "3ème Année/Cours/Gestion de Projet/Projet - Sujet Metz Cyber Academy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business idioms and phrases"
+              "title": "Projet - Sujet Metz Cyber Academy"
             }
           },
           {
-            "id": "001d7f318d0e0c2e",
+            "id": "56282e0a4dad49b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2ème Année/Cours/NOTES pour diplome.md",
+                "file": "3ème Année/Cours/Détection Vulnérabilité/Cours 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NOTES pour diplome"
-            }
-          },
-          {
-            "id": "86ae0221406b23b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note Script Cours 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Note Script Cours 2"
+              "title": "Cours 1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +191,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86ae0221406b23b6",
+  "active": "56282e0a4dad49b2",
   "lastOpenFiles": [
-    "Notes Cours Script.md",
-    "Note Script Cours 2.md",
+    "3ème Année/Cours/Détection Vulnérabilité/Procédure d'aide de upgrade à commande scan des ports de la vm.md",
+    "3ème Année/Cours/Détection Vulnérabilité/Cours 1.md",
+    "3ème Année/Cours/DevOps/Cours 1.md",
+    "3ème Année/Cours/Détection Vulnérabilité",
+    "Pasted image 20260203091625.png",
+    "Pasted image 20260203091529.png",
+    "3ème Année/Cours/DevOps",
+    "3ème Année/Cours/Gestion de Projet/Cours 1.md",
+    "3ème Année/Cours/Gestion de Projet/Projet - Sujet Metz Cyber Academy.md",
+    "3ème Année/Cours/Script/Notes Cours Script 3.md",
+    "Pasted image 20251121114915.png",
+    "Pasted image 20251121105000.png",
+    "Pasted image 20251121093709.png",
+    "Pasted image 20251121092107.png",
+    "Pasted image 20251121091520.png",
+    "Pasted image 20251121091433.png",
+    "Pasted image 20251121091403.png",
+    "Pasted image 20251121091036.png",
+    "3ème Année/Cours/Script/Notes Cours Script 1.md",
+    "3ème Année/Cours/Script/Notes Cours  Script 2.md",
+    "3ème Année/Cours/Gestion de Projet",
+    "3ème Année/Cours/Windows Server Avancé/Cours Windows Server Avancé 1.md",
+    "3ème Année/Cours/Windows Server Avancé",
+    "3ème Année/Cours/Script",
     "3ème Année/Cours",
     "3ème Année",
     "2ème Année",
@@ -219,15 +227,8 @@
     "Notes Supervision.md",
     "2ème Année/Cours/NOTES pour diplome.md",
     "2ème Année/Cours/Architecture Réseaux/NOTES 2025-03-05.md",
-    "Pasted image 20250305143220.png",
-    "Pasted image 20250305120201.png",
-    "Pasted image 20250305120134.png",
-    "Pasted image 20250305111545.png",
-    "Pasted image 20250305091956.png",
     "2ème Année/Cours/Architecture Réseaux/Découpage plage adresse IP.md",
     "2ème Année/Cours/Architecture Réseaux/Note DHCP Packet Tracer.md",
-    "Pasted image 20250304134543.png",
-    "Pasted image 20250304133506.png",
     "2ème Année/Cours/Architecture Réseaux/Notes Packet Tracer.md",
     "2ème Année/Cours/Architecture Réseaux/Cours 2 -- 2024-11-05.md",
     "2ème Année/Cours/Architecture Réseaux/Cours 1 -  04-11-2024.md",
@@ -236,23 +237,8 @@
     "2ème Année/Cours/Connaissances générales et comportementale/Cours 3.md",
     "2ème Année/Cours/Connaissances générales et comportementale/Cours 2.md",
     "2ème Année/Cours/Connaissances générales et comportementale/Cours 1.md",
-    "2ème Année/Cours/Windows Server/Windows Deployment Services.md",
-    "2ème Année/Cours/Anglais/Cours 2.md",
-    "Pasted image 20241105105247.png",
-    "2ème Année/Cours/Culture Juridique/Chapitre 2  Contenu et validité d’un contrat de  travail.md",
-    "2ème Année/Cours/Culture Juridique/Chapitre 1 La formation du contrat de travail.md",
-    "2ème Année/Cours/Culture Juridique/Notes Culture Juridique.md",
-    "Pasted image 20250115140058.png",
-    "Pasted image 20250115135441.png",
-    "2ème Année/Cours/Anglais/Documentary.md",
-    "2ème Année/Cours/Anglais/Cours 3.md",
     "Cours/Windows Serveur Avancé",
     "2ème Année/Cours/Connaissances générales et comportementale",
-    "2ème Année/Cours/Linux avancé",
-    "2ème Année/Cours/Windows Client avancé",
-    "Cours/Conception de projet informatique",
-    "2ème Année/Cours/Architecture Réseaux",
-    "Untitled.canvas",
-    "2ème Année/Cours/Windows Server"
+    "Untitled.canvas"
   ]
 }
